@@ -4,7 +4,7 @@ _______________________
 ## About
  This work, is a part of the Full Stack ND, explores basic concepts regarding python, relational databases, queries and views and sub queries and how to build and refine complex queries and use them to draw business conclusions from data.
 
- the database have three tables
+ the database have three tables :
    - articles
    - authors
    - logs
