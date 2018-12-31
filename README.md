@@ -1,6 +1,10 @@
 Project(1) Log Analysis
 student name : Abdulmajeed Jamaan Alzahrani
         email: azzhraanee2011@hotmail.com
+        
+code style: 
+        - defined 3 methods
+        - each method answerd a question separately and print it output
 
 1.set up VM
   - install virtual box
