@@ -5,14 +5,14 @@ _______________________
  This work, is a part of the Full Stack ND, explores basic concepts regarding python, relational databases, queries and views and sub queries and how to build and refine complex queries and use them to draw business conclusions from data.
 
  the database have three tables :
-   - articles
-   - authors
-   - logs
+   - articles.
+   - authors.
+   - logs.
 
  the questions on this database are :
-    1- What are the most popular three articles of all time?.
-    2- Who are the most popular article authors of all time?.
-    3- On which days did more than 1% of requests lead to errors?.
+    - What are the most popular three articles of all time?.
+    - Who are the most popular article authors of all time?.
+    - On which days did more than 1% of requests lead to errors?.
 
 ## Prerequisites
   - download and install python (https://www.python.org/downloads/).
